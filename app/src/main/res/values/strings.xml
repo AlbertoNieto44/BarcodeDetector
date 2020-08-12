@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarcodeDetect</string>
+    <string name="text_button_read">Read Image</string>
+    <string name="text_button_process">Process</string>
+</resources>
